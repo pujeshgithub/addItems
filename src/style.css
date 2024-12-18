@@ -1,0 +1,66 @@
+.btn1 {
+    color: white;
+    background-color: green;
+    font-size: 30px;
+    font-weight: bolder;
+    size: 30px;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 10px 10px black;
+}
+.btn2{
+  
+        color: white;
+        background-color: red;
+        font-size: 30px;
+        font-weight: bolder;
+        size: 30px;
+        margin: 30px;
+        padding: 10px;
+        box-shadow: 10px 10px black;
+}
+
+input{
+    padding: 20px;
+    border: 6px solid;
+    font-size: 20px;
+}
+li{
+    font-size: 35px;
+    font-weight: 700;
+}
+.para{
+    color: red;
+    font-size: 30px;
+    font-weight: 700;
+}
+.customSpan{
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+#Car, #Bikes, #FavPlayer{
+    border: 2px solid;
+    width: 400px;
+    display: inline-grid;
+    padding: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin: 70px;
+    box-shadow: 30px 30px 30px 30px lightblue;
+    background-color: grey;
+
+}
+ #FavPlayer:hover{
+    box-shadow: 20px 20px 20px rgb(238, 12, 162);
+}
+#Bikes:hover{
+    box-shadow: 20px 20px 20px rgb(238, 12, 162);
+}
+#Car:hover{
+    box-shadow: 20px 20px 20px rgb(238, 12, 162);
+}
+body{
+    background-color: lightcyan;
+}
+
